@@ -4,7 +4,7 @@ public class HelloWorld {
     public static void main(String[] args){
         // to read input from user
         Scanner sc=new Scanner(System.in);
-        //to store user name
+        //to store user name Varma
         String username;
         //reading and storing user name
         username=sc.nextLine();
